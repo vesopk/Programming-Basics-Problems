@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransportPrice", "ExamMart2016\TransportPrice.csproj", "{CD3571B9-8FC4-4B00-807F-AF597C272D62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamInTIme", "ExamInTIme\ExamInTIme.csproj", "{E410C48A-B874-44E3-8460-5B5DF5F68350}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tubeInPool", "tubeInPool\tubeInPool.csproj", "{D23D5858-254D-457C-95C9-8D62CC92FDE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD3571B9-8FC4-4B00-807F-AF597C272D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD3571B9-8FC4-4B00-807F-AF597C272D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD3571B9-8FC4-4B00-807F-AF597C272D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD3571B9-8FC4-4B00-807F-AF597C272D62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E410C48A-B874-44E3-8460-5B5DF5F68350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E410C48A-B874-44E3-8460-5B5DF5F68350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E410C48A-B874-44E3-8460-5B5DF5F68350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E410C48A-B874-44E3-8460-5B5DF5F68350}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D23D5858-254D-457C-95C9-8D62CC92FDE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23D5858-254D-457C-95C9-8D62CC92FDE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23D5858-254D-457C-95C9-8D62CC92FDE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23D5858-254D-457C-95C9-8D62CC92FDE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
